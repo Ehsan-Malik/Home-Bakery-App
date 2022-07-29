@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_bakeries"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Bakeries"/>
+
+    <item android:id="@+id/nav_all_categories"
+        android:icon="@drawable/ic_baseline_widgets_24"
+        android:title="All Categories"/>
+
+    <item android:id="@+id/nav_my_orders"
+        android:icon="@drawable/ic_baseline_analytics_24"
+        android:title="My Orders"/>
+
+    <item android:id="@+id/nav_my_cart"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="My Cart"/>
+
+
+    <item android:id="@+id/nav_account"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="My Account"/>
+
+
+    <item android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_baseline_assignment_return_24"
+        android:title="Logout"/>
+
+</menu>
